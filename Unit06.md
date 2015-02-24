@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST301: Greece, the Roman Republic, and the Roman Empire"
+course_description: "A detailed study of the political, social, economic, and cultural history of the Greek and Roman civilizations from the first millennium BCE and to the first millennium CE, with special emphasis on their legacy to Western civilization."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Italy and the Roman Republic (509–287 BCE)** <span
 id="6"></span> 
 *Like the Greeks, the people of the Italian peninsula were influenced by

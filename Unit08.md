@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST301: Greece, the Roman Republic, and the Roman Empire"
+course_description: "A detailed study of the political, social, economic, and cultural history of the Greek and Roman civilizations from the first millennium BCE and to the first millennium CE, with special emphasis on their legacy to Western civilization."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: The Fall of the Roman Republic (c. 133–31 BCE)** <span
 id="8"></span> 
 *Roman military expansion in the 2<sup>nd</sup> century BCE upset the

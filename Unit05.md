@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST301: Greece, the Roman Republic, and the Roman Empire"
+course_description: "A detailed study of the political, social, economic, and cultural history of the Greek and Roman civilizations from the first millennium BCE and to the first millennium CE, with special emphasis on their legacy to Western civilization."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Rise of Macedon and the Hellenistic Period (c. 350–31
 BCE)** <span id="5"></span> 
 *In the mid-4<sup>th</sup> century BCE, the kingdom of Macedonia emerged

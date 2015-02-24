@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST301: Greece, the Roman Republic, and the Roman Empire"
+course_description: "A detailed study of the political, social, economic, and cultural history of the Greek and Roman civilizations from the first millennium BCE and to the first millennium CE, with special emphasis on their legacy to Western civilization."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Augustus (31 BCE–14 CE) and the Roman Empire (c. 31 BCE–235
 CE)** <span id="9"></span> 
 *In the years that followed his victory over his rival Marc Antony in 31

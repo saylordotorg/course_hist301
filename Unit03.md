@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST301: Greece, the Roman Republic, and the Roman Empire"
+course_description: "A detailed study of the political, social, economic, and cultural history of the Greek and Roman civilizations from the first millennium BCE and to the first millennium CE, with special emphasis on their legacy to Western civilization."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Archaic Period: The Rise of the Polis (c.700–500 BCE)**
 <span id="3"></span> 
 *During the Archaic period, Greece experienced rapid population growth,

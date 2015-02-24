@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST301: Greece, the Roman Republic, and the Roman Empire"
+course_description: "A detailed study of the political, social, economic, and cultural history of the Greek and Roman civilizations from the first millennium BCE and to the first millennium CE, with special emphasis on their legacy to Western civilization."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Greek Dark Ages and the 8th-Century Renaissance (c.
 1100–700 BCE)** <span id="2"></span> 
 *The end of the Bronze Age witnessed the destruction of the great
