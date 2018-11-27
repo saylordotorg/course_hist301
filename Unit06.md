@@ -251,7 +251,7 @@ id="6.2.4"></span> 
 **6.3.2 Rome’s Neighbors in Italy** <span id="6.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “The Ancient People of Italy”**
     Link: The Saylor Foundation’s [“The Ancient People of
-    Italy”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-4.3.2-AncientPeopleoftItaly-FINAL.pdf) (PDF)  
+    Italy”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-4.3.2-AncientPeopleoftItaly-FINAL.pdf) (PDF)  
         
      Instructions: Read this article, which describes the ancient tribes
     of Italy, including the Etruscans, Latins, Samnites, Lucanians, and
@@ -263,7 +263,7 @@ id="6.2.4"></span> 
 **6.4 The Roman Republic** <span id="6.4"></span> 
 -   **Reading: The Saylor Foundation’s “The Roman Republic”**
     Link: The Saylor Foundation’s [“The Roman
-    Republic”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-5.1-RomanRepublic-FINAL.pdf) (PDF)  
+    Republic”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-5.1-RomanRepublic-FINAL.pdf) (PDF)  
         
      Instructions: Read this article for an overview of the history of
     the Roman Republic.  

@@ -59,7 +59,7 @@ id="1.1"></span> 
 -   **Reading: The Saylor Foundation’s “Introduction to Early Ancient
     Greek History”**
     Link: The Saylor Foundation’s [“Introduction to Early Ancient Greek
-    History”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-1.1-GreeceIntro-FINAL.pdf) (PDF)  
+    History”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-1.1-GreeceIntro-FINAL.pdf) (PDF)  
         
      Instructions: Read this article, which discusses the mystery of the
     first Greek settlers, how their descendants tried to fill in the
@@ -73,7 +73,7 @@ id="1.1"></span> 
     and the Beginning of the Bronze Age”**
     Link: The Saylor Foundation’s [“Early Greece: Prehistoric Greece and
     the Beginning of the Bronze
-    Age”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-1.1-EarlyGreece-FINAL.pdf) (PDF)  
+    Age”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-1.1-EarlyGreece-FINAL.pdf) (PDF)  
       
      Instructions: Read this article about early Greece. Pay special
     attention to the description of the sources for the Greek Bronze Age
@@ -91,7 +91,7 @@ id="1.1"></span> 
 
     Link: The Saylor Foundation’s [“The Emergence of Complex Societies
     in the Aegean Bronze
-    Age”](http://www.saylor.org/site/wp-content/uploads/2013/06/Saylor.orgs-The-Emergence-of-Complex-Societies-in-the-Aegean-Bronze-Age.pdf)
+    Age”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Saylor.orgs-The-Emergence-of-Complex-Societies-in-the-Aegean-Bronze-Age.pdf)
 
       
      Instructions: Read this article about the development of complex
@@ -201,7 +201,7 @@ id="1.1"></span> 
 **1.2 Minoan Civilization (c. 3000–400 BCE)** <span id="1.2"></span> 
 -   **Reading: The Saylor Foundation’s “History of Minoan Crete”**
     Link: The Saylor Foundation’s [“History of Minoan
-    Crete”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-1.2-MinoanHistory-FINAL.pdf) (PDF)  
+    Crete”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-1.2-MinoanHistory-FINAL.pdf) (PDF)  
         
      Instructions: Read this article about the history of the Minoan
     world. The Minoan world was centered on the Mediterranean island of
@@ -308,7 +308,7 @@ id="1.1"></span> 
 **1.2.5 Minoan Art** <span id="1.2.5"></span> 
 -   **Reading: The Saylor Foundation’s “Minoan Art”**
     Link: The Saylor Foundation’s [“Minoan
-    Art”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-1.2.5-Minoan-Art-FINAL.pdf) (PDF)  
+    Art”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-1.2.5-Minoan-Art-FINAL.pdf) (PDF)  
         
      Instructions: Read this article about Minoan art. As you will find,
     the palaces and other architectural accomplishments of Minoan
@@ -428,7 +428,7 @@ id="1.1"></span> 
 
     Link: The Saylor Foundation’s [“Mycenaean Civilization: The Culture
     of Bronze Age
-    Greece”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-1.3-MycenaeanCiv-FINAL.pdf) (PDF)  
+    Greece”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-1.3-MycenaeanCiv-FINAL.pdf) (PDF)  
       
      Instructions: Read this article about Mycenaean civilization. As
     you will find, our geographical focus will shift from Crete back to
