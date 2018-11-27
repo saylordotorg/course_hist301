@@ -540,13 +540,13 @@ id="5.2.2"></span> 
     Link: The Saylor Foundation:  
       
      [“Antigonid
-    Macedonia”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-3.3.3-Antigonids-FINAL.pdf) (PDF)  
+    Macedonia”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-3.3.3-Antigonids-FINAL.pdf) (PDF)  
      [“Antigonas II
-    Gonatas”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-3.3.3-AntigonasGonatas-FINAL.pdf) (PDF)  
+    Gonatas”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-3.3.3-AntigonasGonatas-FINAL.pdf) (PDF)  
      [“Demetrius II and Antigonas III
-    Doson”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-3.3.3-DemtriusIIandAntigonasDoson-FINAL.pdf) (PDF)  
+    Doson”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-3.3.3-DemtriusIIandAntigonasDoson-FINAL.pdf) (PDF)  
      [“Philip V and Perseus: The Twilight of Antigonid
-    Macedonia”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-3.3.3-PhilipVandPerseus-FINAL.pdf) (PDF)  
+    Macedonia”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-3.3.3-PhilipVandPerseus-FINAL.pdf) (PDF)  
         
      Instructions: Read these articles. The descendants of Antigonus I
     (one of Alexander the Great’s generals) formed the Antigonid
@@ -712,12 +712,12 @@ id="5.3.5"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Units 4–5 Assessment”**
     Link: The Saylor Foundation’s [“Units 4–5
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2013/06/HIST301-Units-4-and-5-Assesment.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/HIST301-Units-4-and-5-Assesment.pdf) (PDF)  
         
      Instructions: Follow the instructions in the document linked above
     to complete this written assessment. When you are finished, check
     your work against the Saylor Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/06/HIST301-Units-4-and-5-Guide-to-Responding.pdf) (PDF).  
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/HIST301-Units-4-and-5-Guide-to-Responding.pdf) (PDF).  
         
      Completing this assessment should take approximately 1 hour.  
       

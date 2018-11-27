@@ -61,7 +61,7 @@ of Tyrannies** <span id="3.1"></span> 
 -   **Reading: The Saylor Foundation’s “Archaic Greece (ca. 700–480
     BCE)”**
     Link: The Saylor Foundation’s [“Archaic Greece (ca. 700–480
-    BCE)”](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-2.1-ArchaicGreece-FINAL.pdf) (PDF)  
+    BCE)”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-2.1-ArchaicGreece-FINAL.pdf) (PDF)  
       
      Instructions: Read this article, which offers a brief overview of
     Archaic Greece and the development of the *polis.*  
@@ -316,7 +316,7 @@ of Tyrannies** <span id="3.1"></span> 
     The Saylor Foundation’s </span>[<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">“Solon
     and the Early Athenian
-    Government”</span>](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-2.3.3-Solon-FINAL.pdf)<span
+    Government”</span>](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-2.3.3-Solon-FINAL.pdf)<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
     (PDF)  
         
@@ -482,7 +482,7 @@ of Tyrannies** <span id="3.1"></span> 
     The Saylor Foundation’s </span>[<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">“Archaic
     Greek Art (700–480
-    BCE)”</span>](http://www.saylor.org/site/wp-content/uploads/2013/02/HIST301-2.1.4-ArchaicArt-FINAL.pdf)<span
+    BCE)”</span>](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-2.1.4-ArchaicArt-FINAL.pdf)<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
     (PDF)  
         
@@ -582,12 +582,12 @@ of Tyrannies** <span id="3.1"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Units 1–3 Assessment”**
     Link: The Saylor Foundation’s [“Units 1–3
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2013/06/HIST301-Units-1-3-Assesment.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/HIST301-Units-1-3-Assesment.pdf) (PDF)  
       
      Instructions: Follow the instructions on the document linked above
     to complete this written assessment. When you are finished, check
     your work against the Saylor Foundation’s [“Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2013/06/HIST301-Units-1-3-Assesment-Guide.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/HIST301-Units-1-3-Assesment-Guide.pdf)
     (PDF).  
         
      Completing this assessment should take approximately 1 hour.
