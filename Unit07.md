@@ -54,7 +54,7 @@ Upon successful completion of this unit, you will be able to:
     The Saylor Foundation’s </span>[<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">“The
     Roman Conquest of
-    Italy”</span>](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-5.2-RomanConquestItaly-FINAL.pdf)<span
+    Italy”</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-5.2-RomanConquestItaly-FINAL.pdf)<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
     (PDF)  
         
