@@ -75,7 +75,7 @@ id="9.1"></span> 
     The Saylor Foundation’s </span>[<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">“The
     Julio-Claudians: Rome’s First Imperial
-    Dynasty”</span>](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-6.2-Julio-Claudians-FINAL.pdf)<span
+    Dynasty”</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-6.2-Julio-Claudians-FINAL.pdf)<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
     (PDF)  
         
@@ -234,13 +234,13 @@ id="9.1"></span> 
     Promise Cut Short” and “Domitian (81–96 CE): The Last of the
     Flavians”**
     Link: The Saylor Foundation: [“The Flavian
-    Dynasty”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-6.3-Intro-FINAL.pdf), [“Vespasian
+    Dynasty”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-6.3-Intro-FINAL.pdf), [“Vespasian
     (70–79 CE): The Founder of a New
-    Dynasty”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-6.3-Vespasian-FINAL.pdf), [“Titus
+    Dynasty”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-6.3-Vespasian-FINAL.pdf), [“Titus
     (79-81 CE): Great Promise Cut
-    Short”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-6.3-Titus-FINAL.pdf) and [“Domitian
+    Short”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-6.3-Titus-FINAL.pdf) and [“Domitian
     (81-96 CE): The Last of the
-    Flavians”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-6.3-Domitian-FINAL.pdf) (PDF)  
+    Flavians”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-6.3-Domitian-FINAL.pdf) (PDF)  
       
      Instructions: Read these articles. Although the Flavians ruled for
     a relatively short time period, they were extremely popular
@@ -339,7 +339,7 @@ id="9.3"></span> 
 -   **Reading: The Saylor Foundation’s “Trajan (98–117 CE): The Height
     of Empire”**
     Link: The Saylor Foundation’s [“Trajan (98–117 CE): The Height of
-    Empire”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-7.1.1-Trajan-FINAL.pdf) (PDF)  
+    Empire”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-7.1.1-Trajan-FINAL.pdf) (PDF)  
         
      Instructions: Read this article, which narrates the history of the
     first two of “The Five Good Emperors,” Nerva and Trajan, who
@@ -450,17 +450,17 @@ id="9.3"></span> 
     <span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">[“Septimius
     Severus (193–211 CE): Founder of the Severan
-    Dynasty”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-7.2-SeptimiusSeverus-FINAL.pdf), </span><span
+    Dynasty”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-7.2-SeptimiusSeverus-FINAL.pdf), </span><span
     style="font-family: Arial, sans-serif;">[“Caracalla (211–217 CE): A
     Reign of
-    Violence”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-7.2-Caracalla-FINAL.pdf), </span>[<span
+    Violence”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-7.2-Caracalla-FINAL.pdf), </span>[<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">“Elagabalus
     (218–222 CE): East Meets
-    West”</span>](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-7.2-Elagabalus-FINAL.pdf)<span
+    West”</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-7.2-Elagabalus-FINAL.pdf)<span
     style="font-family: Arial, sans-serif;"> and </span>[<span
     style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">“Severus
     Alexander (222–235 CE): The Calm before the
-    Storm”</span>](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST301-7.2-SeverusAlexander-FINAL.pdf)<span
+    Storm”</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST301-7.2-SeverusAlexander-FINAL.pdf)<span
     style="font-family: Arial, sans-serif;"> (PDF)</span>
 
     <span
@@ -564,12 +564,12 @@ id="9.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Units 6–9 Assessment”**
     Link: The Saylor Foundation’s [“Units 6–9
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/HIST301-Units-6-9-Assessement.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/HIST301-Units-6-9-Assessement.pdf) (PDF)  
         
      Instructions: Follow the instructions on the document linked above
     to complete this written assessment. When you are finished, check
     your work against the Saylor Foundation’s [“Guide to
-    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/HIST301-Units-6-9-Guide-to-Responding.pdf) (PDF)  
+    Responding”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/HIST301-Units-6-9-Guide-to-Responding.pdf) (PDF)  
         
      Completing this assessment should take approximately 1 hour.
 
